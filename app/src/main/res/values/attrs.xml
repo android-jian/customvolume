@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <attr name="firstColor" format="color"/>
+    <attr name="secondColor" format="color"/>
+    <attr name="circleWidth" format="dimension"/>
+    <attr name="dotCount" format="integer"/>
+    <attr name="splitSize" format="integer"/>
+    <attr name="centerIcon" format="reference"/>
+
+    <declare-styleable name="CustomVolumControlBar">
+        <attr name="firstColor"/>
+        <attr name="secondColor"/>
+        <attr name="circleWidth"/>
+        <attr name="dotCount"/>
+        <attr name="splitSize"/>
+        <attr name="centerIcon"/>
+    </declare-styleable>
+    
+</resources>
